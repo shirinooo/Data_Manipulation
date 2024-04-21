@@ -1,2 +1,2 @@
-#### - Using Python for loading, parsing, manipulating, summarising
+#### - Using Python for loading, parsing, manipulating, and summarising data 
 #### - Parsing JSON content
